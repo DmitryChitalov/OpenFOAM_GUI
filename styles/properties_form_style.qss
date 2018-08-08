@@ -1,0 +1,60 @@
+QFrame{
+    border-width: 1px;
+    border-style: solid;
+    border-color: dimgray;
+    border-radius: 4px;
+    background-color: cornsilk;
+}
+
+QLineEdit {
+   width: 20px;
+   background-color: snow;
+   border-width: 1px;
+   border-style: solid;
+   border-color: darkgray;  
+   font-size: 9pt;
+   qproperty-alignment: AlignCenter;
+}
+
+QSpinBox {  
+   font-size: 9pt;
+}
+
+QDoubleSpinBox {  
+   font-size: 9pt;
+}
+
+QComboBox {  
+   font-size: 9pt;
+}
+
+QLabel {
+    font: normal;
+    font-weight: 400;
+    border-style: none;
+    font-size: 10pt;
+}
+
+QRadioButton {
+    font: normal;
+    font-weight: 400;
+    border-style: none;
+    font-size: 10pt;
+}
+
+QPushButton {
+    border-width: 1px;
+    border-style: solid;
+    border-color: dimgray;
+    border-radius: 5px;
+    background-color: gainsboro;
+}
+
+QPushButton:hover {
+    border-width: 1px;
+    border-style: solid;
+    border-color: dimgray;
+    border-radius: 5px;
+    background-color: silver;  
+}
+
