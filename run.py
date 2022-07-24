@@ -12,7 +12,7 @@ from add_classes.file_form_class import file_form_class
 from functions.first_toolbar_functions import first_toolbar_functions_class
 from functions.second_toolbar_functions import second_toolbar_functions_class
 
-###-------------------------Главное окно программы-----------------------------###
+###-------------------------Главное окно приложения-----------------------------###
 
 class MainWindowClass(QtGui.QMainWindow):
     def __init__(self, parent=None):
