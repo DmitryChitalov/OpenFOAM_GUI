@@ -531,7 +531,7 @@ patent license (a) in connection with copies of the covered work
 conveyed by you (or copies made from those copies), or (b) primarily
 for and in connection with specific products or compilations that
 contain the covered work, unless you entered into that arrangement,
-or that patent license was granted, prior to 28 March 2007.
+or that patent license was granted, prior to 28 March 2023.
 
   Nothing in this License shall be construed as excluding or limiting
 any implied license or other defenses to infringement that may
