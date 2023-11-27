@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #---------------------------Импорт модулей и внешних форм-------------------------
-#--------------------------
+#---------------------------
 from PyQt4 import QtCore, QtGui
 from forms.rCF_forms.fvSolution_form import fvSolution_form
 from forms.rCF_forms.fvSchemes_form import fvSchemes_form
