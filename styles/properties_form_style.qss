@@ -36,6 +36,7 @@ QComboBox {
    font-size: 9pt;
 }
 
+
 QLabel {
     font: normal;
     font-weight: 400;
