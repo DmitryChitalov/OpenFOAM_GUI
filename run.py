@@ -73,7 +73,7 @@ class MainWindowClass(QtGui.QMainWindow):
 
         self.addToolBar(self.toolBar_1)
 		
-        ###----------------------Панель управления подготовкой расчетных сеток--------------------------###
+        ###----------------------Панель управления подготовкой расчетных сеток---------------------------###
 
         self.msh_open = QtGui.QAction(self)
         self.msh_open.setEnabled(False)
