@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#---------------------------Импорт модулей и внешних форм-------------------------#
+#---------------------------Импорт модулей и внешних форм--------------------------#
 #---------------------------
 from PyQt4 import QtCore, QtGui
 
@@ -123,3 +123,4 @@ class msh_visualisation_thread(QtCore.QThread):
 			color = QtGui.QColor("red")
 			par.item.setTextColor(color)
 			par.listWidget.addItem(par.item)
+
