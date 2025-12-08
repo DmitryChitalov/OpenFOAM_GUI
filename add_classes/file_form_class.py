@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#---------------------------Импорт модулей и внешних форм-------------------------
+#----------------------------Импорт модулей и внешних форм-------------------------
 #--------------------------
 from PyQt4 import QtCore, QtGui
 from forms.rCF_forms.fvSolution_form import fvSolution_form
@@ -71,5 +71,6 @@ class file_form_class:
           
     def out_file_name_func(): return file_name_gl
     def out_file_form_func(): return file_form
+
 
 
