@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# -------------------------------Импорт модулей----------------------------------
+# -------------------------------Импорт модулей-----------------------------------
 
 from PyQt4 import QtCore, QtGui
 import shutil
@@ -339,3 +339,4 @@ class prj_window_class(QtGui.QWidget):
         form_1 = QtGui.QFormLayout()
         form_1.addRow(bound_vbox)
         self.setLayout(form_1)
+
