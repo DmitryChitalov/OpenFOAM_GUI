@@ -1,8 +1,8 @@
-# Название Вашего PyQt Проекта
+# Графическая оболочка для построения сеток и генерации численных в моделей в OpenFOAM
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![PyQt](https://img.shields.io/badge/PyQt-6-green.svg)
-![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
+![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
+![PyQt](https://img.shields.io/badge/PyQt-5-green.svg)
+![License](https://img.shields.io/badge/license-%20%20GNU%20GPLv3%20-green?style=plastic)
 
 Краткое описание того, что делает ваше приложение. Например: «Удобный десктопный менеджер задач, созданный с использованием PyQt6 для эффективного управления ежедневными делами».
 
